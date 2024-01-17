@@ -1,6 +1,5 @@
 
 let numeroSecreto = "Si";
-alert("Hola Mundo");
 let numeroUsuario = prompt("Dime si me amas (Si o No):")
 console.log(" "+numeroUsuario);
 
